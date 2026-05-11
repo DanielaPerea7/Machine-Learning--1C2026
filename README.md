@@ -156,15 +156,3 @@ A través de este proyecto se busca:
 - Generación de recomendaciones estratégicas para retención de usuarios.
 
 ---
-
-## 📚 Contexto Académico
-
-Proyecto desarrollado como parte del curso de **Machine Learning / Data Science**, aplicando técnicas de:
-
-- Análisis exploratorio de datos
-- Machine Learning supervisado y no supervisado
-- Feature Engineering
-- Predicción y segmentación de usuarios
-- Visualización de datos y análisis urbano
-
----

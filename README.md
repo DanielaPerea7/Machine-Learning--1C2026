@@ -1,5 +1,4 @@
-# Optimización de la Movilidad Urbana: 
-# Segmentación de Usuarios y Predicción de Churn en EcoBici
+# Optimización de la Movilidad Urbana: Segmentación de Usuarios y Predicción de Churn en EcoBici
 
 ## Introducción
 
